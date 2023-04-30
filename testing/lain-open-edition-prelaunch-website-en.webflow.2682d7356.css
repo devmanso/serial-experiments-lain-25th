@@ -426,7 +426,7 @@ img {
   margin-bottom: 20px;
   margin-left: 20px;
   background-color: transparent;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640f2b2cfef4eb258e0b65ed_Frame%2014342.png");
+  background-image: url("red_banner.png");
   background-size: auto;
   background-repeat: repeat-x;
   font-family: Chicagoflf, sans-serif;
@@ -533,7 +533,7 @@ img {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640f288a9a6d5b7730141a8e_Group%2014402.png");
+  background-image: url("lets_all_love_lain.png");
   background-position: 0px 0px;
   background-size: 351px 23px;
   background-repeat: repeat-x;
@@ -570,7 +570,7 @@ img {
   border-width: 1px;
   border-color: #fff;
   background-color: transparent;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6410747c715ff518891f5134_Notification%20(5).png");
+  background-image: url("submission_success.png");
   background-position: 0px 0px;
   background-size: 345px;
   text-align: left;
@@ -594,7 +594,7 @@ img {
 .div-block-2 {
   min-height: 28px;
   min-width: 331px;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/641075c9ccfe0b74fbd2bc5a_Notification%20(6).png");
+  background-image: url("submission_error.png");
   background-position: 50% 50%;
   background-size: 351px;
   background-repeat: repeat-x;
@@ -695,7 +695,7 @@ img {
 .div-block-5 {
   height: 21px;
   padding-right: 0px;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426a853df43666eb10098db_Group%2014402.png");
+  background-image: url("LAIN_ANIME_MIX_longbanner.png");
   background-position: 50% 100%;
   background-size: contain;
   background-repeat: repeat-x;
@@ -705,7 +705,7 @@ img {
   width: 229px;
   height: 229px;
   margin: 77px auto 40px;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426a94695bf490f990e9fe6_lain_25th_logos_white%201.png");
+  background-image: url("lain_25th_logos_white.png");
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -727,7 +727,7 @@ img {
   margin-right: auto;
   margin-bottom: 60px;
   margin-left: auto;
-  background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426ac95eb68090bf90f5551_Group%2014415.png");
+  background-image: url("LAIN25th.png");
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -870,7 +870,7 @@ img {
   }
 
   .div-block-5 {
-    background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426a853df43666eb10098db_Group%2014402.png");
+    background-image: url("LAIN_ANIME_MIX_MOV_longbanner.png");
     background-position: 50% 100%;
     background-size: contain;
     background-repeat: repeat-x;
@@ -1023,7 +1023,7 @@ img {
   }
 
   .submit-button {
-    background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640f2b2cfef4eb258e0b65ed_Frame%2014342.png");
+    background-image: url("red_banner.png");
     background-position: 0px 0px;
     background-size: auto;
     background-repeat: repeat-x;
@@ -1052,7 +1052,7 @@ img {
     height: 45px;
     margin: 10px auto 30px;
     border: 0px none #000;
-    background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6410354f523ba6569d2dee59_Group%2014408%20-%20text.png");
+    background-image: url("Close_the_world.png");
     background-position: 50% 50%;
     background-size: auto;
     background-repeat: repeat-x;
@@ -1140,7 +1140,7 @@ img {
     margin: 20px auto 40px;
     padding-right: 0px;
     padding-bottom: 0px;
-    background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426b90f559fd060261b9788_Group%2014415%20(1).png");
+    background-image: url("lain_banner.png");
     background-position: 0px 0px;
     background-size: auto;
   }
@@ -1152,7 +1152,7 @@ img {
     margin-left: 10px;
     padding-right: 0px;
     padding-bottom: 0px;
-    background-image: url("https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426bf48192bc36283d71bf8_Group%2014396.png");
+    background-image: url("LAIN_ANIME_MIX_MOV_longbanner.png");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: repeat-x;
@@ -1160,28 +1160,28 @@ img {
 }
 @font-face {
   font-family: 'Chicagoflf';
-  src: url('https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640ae9eac85633cbed1d06b7_ChicagoFLF.ttf') format('truetype');
+  src: url('ChicagoFLF.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Lovelt';
-  src: url('https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640f226cc93f3f23be906752_Lovelt__.ttf') format('truetype');
+  src: url('Lovelt__.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Zxx camo';
-  src: url('https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/6426dad9048f9d542bbe7f2e_zxx-camo.ttf') format('truetype');
+  src: url('camo.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Sysfont';
-  src: url('https://web.archive.org/web/20230401000342im_/https://uploads-ssl.webflow.com/640ae197ba70444c054c5a80/640aee5416961672906287c7_sysfont.otf') format('opentype');
+  src: url('sysfont.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
